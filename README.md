@@ -46,7 +46,7 @@
 ---
 
 ### 📈 Mes Statistiques GitHub
-![Stats de Merhbene](https://github-readme-stats.vercel.app/api?username=VotrePseudoIci&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VotrePseudoIci&layout=compact&theme=radical)
+![Stats de Merhbene](https://github-readme-stats.vercel.app/api?username=yessinemer&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yessinemer&layout=compact&theme=radical)
 
 *(Remplacez "VotrePseudoIci" par votre véritable nom d'utilisateur GitHub dans les liens ci-dessus)*
